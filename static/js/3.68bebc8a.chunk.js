@@ -1,0 +1,2 @@
+(this["webpackJsonpdgrv-app"]=this["webpackJsonpdgrv-app"]||[]).push([[3],{41:function(e,t,c){},43:function(e,t,c){"use strict";c.r(t);var a=c(6),s=c(1),i=c(42),n=(c(41),c(2));t.default=function(e){var t=Object(s.useState)("Chat with Duy delay"),c=Object(a.a)(t,1)[0];return Object(s.useEffect)((function(){e.receiveData(c)})),Object(n.jsx)("div",{children:Object(n.jsx)("a",{href:"skype:vinhduydt4?chat",children:Object(n.jsx)(i.a,{title:c,size:"50",className:"App-logo"})})})}}}]);
+//# sourceMappingURL=3.68bebc8a.chunk.js.map
